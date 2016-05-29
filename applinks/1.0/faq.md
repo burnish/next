@@ -33,3 +33,9 @@ Press firmly on any screen for an option to start playback on the watch. To do t
 ## Why do episodes on the watch always play from the beginning?
 
 This is how the audio player on watchOS works. If there are any changes to this behavior of watchOS in future versions, Up Next will be modified to support them if at all possible. In the meantime the only workaround is to choose episodes you are at the beginning of when you want to listen away from your phone.
+
+## Can I skip forwards or backwards within episodes on the watch?
+
+Sadly no, the watch app is incapable of skipping back or forwards within an episode. 
+
+(However, the watch now playing glance can be used to skip back and forwards when episodes are playing on the phone.)
