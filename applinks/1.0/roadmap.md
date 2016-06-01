@@ -10,11 +10,11 @@ No promises with any of these things, I wish I could dedicate enough time to thi
 
 ## Now Playing View
 
-Most podcast apps seem to have a screen that is dedicated to the now playing episode. Typically a large image with the show artwork, a scrubber, play/pause/skip buttons etc. This has been deliberately omitted to start off with. I would like to have a something like this in Up Next, but for now I don't see how it provides any essential functionality.
+Most podcast apps seem to have a screen that is dedicated to the now playing episode. Typically a large image with the show artwork, a scrubber, play/pause/skip buttons etc. This has been deliberately omitted to start off with. After using this app for many months, it is clear to me I do need some way to more easily seek around within an episode. I'll either add a now playing screen, or some sort of scrubber.
 
 ## Download Manager
 
-Part of the point of having a really simple model is to allow a hands off download manager that just knows you need the next couple of episodes of each show. But sometimes you still want to just go in and tweak things. Like before you get on a flight load up all the episodes of your current favourite show. A 
+Ultimately I want a hands off download manager that just knows you need the next couple of episodes of each show. But sometimes you still want to just go in and tweak things. Like before you get on a flight load up all the episodes of your current favourite show. Or when you are running particularly low on space.
 
 ## Show Level Settings
 
@@ -28,7 +28,7 @@ Both the ability to share a current episode that you particularly enjoyed, or yo
 
 ## Wider Platform Support
  
-One of the advantages of having a really simple app is that it should be reltively easy to make available on other platforms. I personally miss Up Next while I'm using my iPad, and it would be fun to try out tvOS.
+One of the advantages of a simple app is that it should be reltively easy to make it available on other platforms. I personally miss Up Next while I'm using my iPad, and it would be fun to try out tvOS.
 
 ## Better Local Playback on Watch
 
@@ -36,5 +36,7 @@ This is one area I will be keen to jump into as soon as new APIs are available f
 
 ## News Mode
 
-Probably my favourite other podcast app "Castro", introduced me to feature that I think would work really well
+I have to credit my favourite other podcast app [Castro][castro], at least for the name. But some shows do work best in a "news mode" where only the most recent episode is relevant. I'm still not sure whether it fits in Up Next, but I'm trying not to be dogmatic, and it is under consideration.
+
+[castro]://supertop.co/castro/
 
